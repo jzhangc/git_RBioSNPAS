@@ -3,6 +3,7 @@ data
 results
 .DS_Store
 .vscode
+.Rhisotry
 log
 db
 
@@ -139,3 +140,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user
